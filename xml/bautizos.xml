@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bautizos.xsl"?>
+<bautizos>
+		<imagen1 ruta="../imagenes/bautizos/bauti1.jpg"/>
+		<nombre1>José</nombre1>
+		<imagen2 ruta="../imagenes/bautizos/bauti2.jpg"/>
+		<nombre2>Anselmo</nombre2>
+		<imagen3 ruta="../imagenes/bautizos/bauti3.jpg"/>
+		<nombre3>Ana</nombre3>
+</bautizos>

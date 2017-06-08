@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="comuniones.xsl"?>
+<comuniones>
+		<imagen1 ruta="../imagenes/comuniones/comu1.jpg"/>
+		<nombre1>Luis</nombre1>
+		<imagen2 ruta="../imagenes/comuniones/comu2.jpg"/>
+		<nombre2>Alejandro</nombre2>
+		<imagen3 ruta="../imagenes/comuniones/comu4.jpg"/>
+		<nombre3>Javier</nombre3>
+		<imagen4 ruta="../imagenes/comuniones/comu3.jpg"/>
+		<nombre4>Lucía</nombre4>
+</comuniones>

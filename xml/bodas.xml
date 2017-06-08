@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bodas.xsl"?>
+<bodas>
+		<imagen1 ruta="../imagenes/bodas/novios1.jpg"/>
+		<nombre1>María y Álvaro</nombre1>
+		<imagen2 ruta="../imagenes/bodas/novios2.jpg"/>
+		<nombre2>Juan y Aurora</nombre2>
+		<imagen3 ruta="../imagenes/bodas/novios3.jpg"/>
+		<nombre3>Ana y Marco</nombre3>
+		<imagen4 ruta="../imagenes/bodas/novios4.jpg"/>
+		<nombre4>Jesús y Nieves</nombre4>
+		<imagen5 ruta="../imagenes/bodas/novios5.jpg"/>
+		<nombre5>Manuel y Eva</nombre5>
+		<imagen6 ruta="../imagenes/bodas/novios6.jpg"/>
+		<nombre6>Adán y Patricia</nombre6>
+</bodas>

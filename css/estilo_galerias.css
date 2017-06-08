@@ -1,0 +1,13 @@
+
+
+@font-face{
+	font-family: "dirainbow";
+	src: url("../font/Dancing_in_the_Rainbow.ttf") format("truetype");
+}
+
+table{
+	color:white;
+	text-align: center;
+	font-family: dirainbow;
+	font-size: 2em;
+}

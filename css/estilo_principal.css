@@ -1,0 +1,190 @@
+@font-face{
+	font-family: "dirainbow";
+	src: url("../font/Dancing_in_the_Rainbow.ttf") format("truetype");
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+
+}
+
+
+header{
+    width:100%;
+    text-align: center;
+}
+/*  ...........................  Menu ......................... */
+ul{
+    list-style:none;
+}
+   
+nav li {
+    float:left;
+    margin-bottom: 20px;
+}
+
+nav li a {
+    background-color:#000;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+}
+#centrar{
+	width: 545px;
+	height: 18px;
+}
+#centrar2{
+
+	width: 525px;
+	height: 18px;
+}
+
+nav li a:hover {
+    background-color:#434343;
+}
+#centrar:hover{
+	background-color: black
+}
+#centrar2:hover{
+	background-color: black
+}
+   
+nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+}
+   
+nav li:hover > ul {
+    display:block;
+}
+   
+nav li ul li {
+    position:relative;
+}
+
+nav li ul li ul {
+    right:-140px;
+    top:0px;
+}
+.clear{
+	clear: both;
+}
+/* .......................   titulo y subtitulo  ...............................*/
+.titulo{
+	font-family: dirainbow;
+	font-size:6em;
+	margin-bottom: 20px;
+	color: #868989;
+}
+.subtitulo{
+	font-size:3em;
+	font-family: dirainbow;
+	color: #868989;
+	margin-bottom: 20px;
+}
+#trans{
+	width: 200px;
+	margin-left: 500px;
+	-webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+    transition: width 2s, height 2s, transform 2s;
+}
+#trans:hover{
+	    -webkit-transform: rotate(360deg); /* Safari */
+    transform: rotate(360deg);
+}
+/* ..........................  Contenido ..................................*/
+
+.secciones{
+	font-family: dirainbow;
+	font-size: 2em;
+	background-color: #868989;
+	/*border: 7px solid black;*/
+	margin-right: 150px;
+	margin-left: 150px;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+table{
+
+	margin: auto;
+	color: white;
+	border-spacing: 10px;
+}
+tr{
+	text-align: center;
+}
+
+#titulo_info{
+	color: white;
+	padding: 30px;
+
+}
+
+p{
+	color: white;
+	padding: 10px;
+
+}
+footer{
+	text-align: right;
+
+}
+
+/*..........................    contactooo ....................*/
+#formularios{
+ 	background-color: #868989;
+	margin-right: 150px;
+	margin-left: 150px;
+	margin-top: 75px;
+	margin-bottom: 75px;
+	text-align: center;
+	padding: auto;
+}
+
+.datos{
+	font-weight: bold;
+}
+#infor{
+float: left;
+margin-right: 10px;
+color: white;
+}
+#areatexto{
+margin-left: 50px;
+float: left;
+}
+p #demapa{
+	color: white;
+}
+#mapa{
+	background-color: #868989;
+	margin-right: 150px;
+	margin-left: 150px;
+	margin-top: 75px;
+	margin-bottom: 75px;
+	text-align: center;
+}
+
+iframe{
+	margin: auto;
+}
+
+/*              footer                   */
+
+.pie{
+	width: 100%;
+	height: 45px;
+	text-align: center;
+	background-color:  #868989;
+	padding-bottom: 10px;
+}
