@@ -1,4 +1,4 @@
 # TuEvento
 Página web proyecto 1º Daw lenguaje de marcas para organizacion de eventos 
 
-Guillemorillo.github.io/TuEvento
+https://guillemorillo.github.io/TuEvento/
