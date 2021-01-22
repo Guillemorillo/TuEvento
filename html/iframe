@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>Test Troubleshoot</title>
+	<p>Holaaa</p>
+	<!-- You should add the following <meta> viewport element to support responsive device scaling -->
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0 maximum-scale=1.0" />
+
+</head>
+
+<body>
+
+
+	<iframe width="100%" height="650px" frameborder="0" src="http://schamantelecom.speedtestcustom.com"></iframe>
+
+</body>
+</html>
